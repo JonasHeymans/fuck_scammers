@@ -80,5 +80,5 @@ if __name__ == "__main__":
             'brokerObject[sportsbook]': 'false'
             })
 
-            print(f'Sending the fucker {first_name}, {last_name}, {email}')
+        print(f'Sending the fucker {first_name}, {last_name}, {email}')
 
